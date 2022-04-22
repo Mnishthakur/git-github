@@ -1,2 +1,2 @@
 # git-github
-Info about git and github
+Info about git and github.
